@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Main branch also made changes to feature.txt
+=======
+Fixing a bug in feature.txt
